@@ -9,9 +9,9 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 ## Table of Contents
 1. [Synthetic datasets for Code LLMs](#1-datasets)
 
-| Date    | Venue                            | Benchmark              | Size                 | Language                                                                         | Source                                                                                                                                                                                                                                                                                       |
+| Dataset    | Venue                            | Date              | Size                 | Language                                                                         | Source                                                                                                                                                                                                                                                                                       |
 | ------- | -------------------------------- | ---------------------- | -------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2018-02 | LREC 2018                        | NL2Bash                | 9305                 | Bash                                                                             | "NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System" [[paper](https://arxiv.org/abs/1802.08979)] [[data](https://github.com/TellinaTool/nl2bash)]
+| Code Alpaca | Github                        | 2023                | 20K                 | Bash                                                                             | "Code Alpaca: An Instruction-following LLaMA model for code generation" [[paper](https://github.com/sahil280114/codealpaca)] [[data](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k)]
 
 2. [Benchmarking for Code LLMs](#2-benchmarking)
 
