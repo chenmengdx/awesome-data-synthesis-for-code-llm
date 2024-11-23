@@ -9,6 +9,10 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 ## Table of Contents
 1. [Synthetic datasets for Code LLMs](#1-datasets)
 
+| Date    | Venue                            | Benchmark              | Size                 | Language                                                                         | Source                                                                                                                                                                                                                                                                                       |
+| ------- | -------------------------------- | ---------------------- | -------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018-02 | LREC 2018                        | NL2Bash                | 9305                 | Bash                                                                             | "NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System" [[paper](https://arxiv.org/abs/1802.08979)] [[data](https://github.com/TellinaTool/nl2bash)]
+
 2. [Benchmarking for Code LLMs](#2-benchmarking)
 
 3. [Recommended LLMs](#3-recommended-llms)
