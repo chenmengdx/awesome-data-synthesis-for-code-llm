@@ -3,7 +3,7 @@ This is the repo for our survey paper [Mastering the Craft of Data Synthesis for
 Repo for data synthesis and filtering techniques of Code LLMs, covering papers, datasets, benchmarks, and papers etc.
 
 <p align='center'>
-<img src='imgs/taxonomy.png' style='width: 80%; '>
+<img src='imgs/taxonomy.png' style='width: 100%; '>
 </p>
 
 ## Table of Contents
