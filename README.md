@@ -1,6 +1,5 @@
-# awesome-data-synthesis-for-code-llm
-This is the repo for our survey paper [Mastering the Craft of Data Synthesis for CodeLLMs].
-Repo for data synthesis and filtering techniques of Code LLMs, covering papers, datasets, benchmarks, and papers etc.
+# Awesome-data-synthesis-for-code-llm
+This repository accompanies our survey paper "***Mastering the Craft of Data Synthesis for CodeLLMs***", which explores recent advancements in data synthesis and filtering techniques for Code LLMs. It includes a curated collection of relevant papers, datasets, benchmarks, and other resources to support and inspire future research in this rapidly evolving field. We aim to update this repository periodically to reflect the latest developments.
 
 <p align='center'>
 <img src='imgs/taxonomy.png' style='width: 100%; '>
