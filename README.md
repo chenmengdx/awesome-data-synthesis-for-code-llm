@@ -90,80 +90,80 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 ### 4. [Papers](#4-papers)
 
-  - 4.1 [Data Synthesis](#41-data-synthesis)
+#### 4.1 [Data Synthesis](#41-data-synthesis)
 
-- Gunasekar et al, Textbooks are all you need, 2023. [pdf](https://www.microsoft.com/en-us/research/publication/textbooks-are-all-you-need/)
+- Gunasekar et al, Textbooks are all you need, 2023. [[pdf](https://www.microsoft.com/en-us/research/publication/textbooks-are-all-you-need/)]
 
-- Li et al, Textbooks Are All You Need II: phi-1.5 technical report, 2023. [pdf](https://arxiv.org/abs/2309.05463)
+- Li et al, Textbooks Are All You Need II: phi-1.5 technical report, 2023. [[pdf](https://arxiv.org/abs/2309.05463)]
 
-- Rozière et al, Code Llama: Open Foundation Models for Code, 2023. [pdf](https://arxiv.org/abs/2308.12950)
+- Rozière et al, Code Llama: Open Foundation Models for Code, 2023. [[pdf](https://arxiv.org/abs/2308.12950)]
 
-- Chaudhary et al, Code Alpaca: An Instruction-following LLaMA Model trained on code generation instructions, 2023. [pdf](https://github.com/sahil280114/codealpaca)
+- Chaudhary et al, Code Alpaca: An Instruction-following LLaMA Model trained on code generation instructions, 2023. [[pdf](https://github.com/sahil280114/codealpaca)]
 
-- Luo et al, WizardCoder: Empowering Code Large Language Models with Evol-Instruct, 2024. [pdf](https://openreview.net/pdf?id=UnUwSIgK5W)
+- Luo et al, WizardCoder: Empowering Code Large Language Models with Evol-Instruct, 2024. [[pdf](https://openreview.net/pdf?id=UnUwSIgK5W)]
 
-- Wei et al, Magicoder: Empowering Code Generation with OSS-Instruct, 2024. [pdf](https://openreview.net/pdf?id=XUeoOBid3x)
+- Wei et al, Magicoder: Empowering Code Generation with OSS-Instruct, 2024. [[pdf](https://openreview.net/pdf?id=XUeoOBid3x)]
 
-- Zeng et al, Automatic Instruction Evolving for Large Language Models, 2024. [pdf](https://arxiv.org/abs/2406.00770)
+- Zeng et al, Automatic Instruction Evolving for Large Language Models, 2024. [[pdf](https://arxiv.org/abs/2406.00770)]
 
-- Yu et al, WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning, 2024. [pdf](https://aclanthology.org/2024.acl-long.280.pdf)
+- Yu et al, WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning, 2024. [[pdf](https://aclanthology.org/2024.acl-long.280.pdf)]
 
-- Ding et al, SemCoder: Training Code Language Models with Comprehensive Semantics Reasoning, 2024. [pdf](https://arxiv.org/abs/2406.01006)
+- Ding et al, SemCoder: Training Code Language Models with Comprehensive Semantics Reasoning, 2024. [[pdf](https://arxiv.org/abs/2406.01006)]
 
-- Lei et al, AutoCoder: Enhancing Code Large Language Model with \textsc{AIEV-Instruct}, 2024. [pdf](https://arxiv.org/abs/2405.14906)
+- Lei et al, AutoCoder: Enhancing Code Large Language Model with \textsc{AIEV-Instruct}, 2024. [[pdf](https://arxiv.org/abs/2405.14906)]
 
-- Cassano et al, Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs, 2023. [pdf](https://arxiv.org/abs/2308.09895)
+- Cassano et al, Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs, 2023. [[pdf](https://arxiv.org/abs/2308.09895)]
 
-- Weyssow et al, CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences, 2024. [pdf](https://arxiv.org/abs/2403.09032)
+- Weyssow et al, CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences, 2024. [[pdf](https://arxiv.org/abs/2403.09032)]
 
-- Zhang et al, PLUM: Improving Code LMs with Execution-Guided On-Policy Preference Learning Driven By Synthetic Test Cases, 2024. [pdf](https://arxiv.org/abs/2406.06887)
+- Zhang et al, PLUM: Improving Code LMs with Execution-Guided On-Policy Preference Learning Driven By Synthetic Test Cases, 2024. [[pdf](https://arxiv.org/abs/2406.06887)]
 
-- Gu et al, CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution, 2024. [pdf](https://arxiv.org/abs/2401.03065)
+- Gu et al, CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution, 2024. [[pdf](https://arxiv.org/abs/2401.03065)]
 
-- Bhaskar et al, Benchmarking and Improving Text-to-SQL Generation under Ambiguity, 2023. [pdf](https://aclanthology.org/2023.emnlp-main.436.pdf)
+- Bhaskar et al, Benchmarking and Improving Text-to-SQL Generation under Ambiguity, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.436.pdf)]
 
-- Chang et al, Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness, 2023. [pdf](https://openreview.net/pdf?id=Wc5bmZZU9cy)
+- Chang et al, Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness, 2023. [[pdf](https://openreview.net/pdf?id=Wc5bmZZU9cy)]
 
-- Zhang et al, ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems, 2023. [pdf](https://arxiv.org/abs/2306.04743)
+- Zhang et al, ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems, 2023. [[pdf](https://arxiv.org/abs/2306.04743)]
 
-- Jain et al, LLM-Assisted Code Cleaning For Training Accurate Code Generators, 2024. [pdf](https://openreview.net/pdf?id=maRYffiUpI)
+- Jain et al, LLM-Assisted Code Cleaning For Training Accurate Code Generators, 2024. [[pdf](https://openreview.net/pdf?id=maRYffiUpI)]
 
-- Chen et al, Personalized Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation, 2023. [pdf](https://aclanthology.org/2023.emnlp-main.417.pdf)
+- Chen et al, Personalized Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.417.pdf)]
 
-- Haluptzok et al, Language Models Can Teach Themselves to Program Better, 2023. [pdf](https://openreview.net/pdf?id=SaRj2ka1XZ3)
+- Haluptzok et al, Language Models Can Teach Themselves to Program Better, 2023. [[pdf](https://openreview.net/pdf?id=SaRj2ka1XZ3)]
 
-- Dubey et al, The Llama 3 Herd of Models, 2024. [pdf](https://arxiv.org/abs/2407.21783)
+- Dubey et al, The Llama 3 Herd of Models, 2024. [[pdf](https://arxiv.org/abs/2407.21783)]
 
-- Piterbarg et al, Training Language Models on Synthetic Edit Sequences Improves Code Synthesis, 2024. [pdf](https://arxiv.org/abs/2410.02749)
+- Piterbarg et al, Training Language Models on Synthetic Edit Sequences Improves Code Synthesis, 2024. [[pdf](https://arxiv.org/abs/2410.02749)]
 
-- Sun et al, Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs, 2024. [pdf](https://aclanthology.org/2024.lrec-main.521.pdf)
+- Sun et al, Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs, 2024. [[pdf](https://aclanthology.org/2024.lrec-main.521.pdf)]
 
-- Cao et al, Beyond Code: Evaluate Thought Steps for Complex Code Generation, 2024. [pdf](https://aclanthology.org/2024.lrec-main.205.pdf)
+- Cao et al, Beyond Code: Evaluate Thought Steps for Complex Code Generation, 2024. [[pdf](https://aclanthology.org/2024.lrec-main.205.pdf)]
 
-- Shao et al, Case2Code: Learning Inductive Reasoning with Synthetic Data, 2024. [pdf](https://arxiv.org/abs/2407.12504)
+- Shao et al, Case2Code: Learning Inductive Reasoning with Synthetic Data, 2024. [[pdf](https://arxiv.org/abs/2407.12504)]
 
-- Zheng et al, OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement, 2024. [pdf](https://aclanthology.org/2024.findings-acl.762.pdf)
+- Zheng et al, OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement, 2024. [[pdf](https://aclanthology.org/2024.findings-acl.762.pdf)]
 
-- Ding et al, CYCLE: Learning to Self-Refine the Code Generation, 2024. [pdf](https://arxiv.org/abs/2403.18746)
+- Ding et al, CYCLE: Learning to Self-Refine the Code Generation, 2024. [[pdf](https://arxiv.org/abs/2403.18746)]
 
-- Wang et al, LETI: Learning to Generate from Textual Interactions, 2024. [pdf](https://aclanthology.org/2024.findings-naacl.16.pdf)
+- Wang et al, LETI: Learning to Generate from Textual Interactions, 2024. [[pdf](https://aclanthology.org/2024.findings-naacl.16.pdf)]
 
-- Shinn et al, Reflexion: language agents with verbal reinforcement learning, 2023. [pdf](https://openreview.net/pdf?id=vAElhFcKW6)
+- Shinn et al, Reflexion: language agents with verbal reinforcement learning, 2023. [[pdf](https://openreview.net/pdf?id=vAElhFcKW6)]
 
-- Yang et al, Synthesizing Text-to-SQL Data from Weak and Strong LLMs, 2024. [pdf](https://aclanthology.org/2024.acl-long.425.pdf)
+- Yang et al, Synthesizing Text-to-SQL Data from Weak and Strong LLMs, 2024. [[pdf](https://aclanthology.org/2024.acl-long.425.pdf)]
 
-- Tian et al, DebugBench: Evaluating Debugging Capability of Large Language Models, 2024. [pdf](https://aclanthology.org/2024.findings-acl.247.pdf)
+- Tian et al, DebugBench: Evaluating Debugging Capability of Large Language Models, 2024. [[pdf](https://aclanthology.org/2024.findings-acl.247.pdf)]
 
-- Gorinski et al, Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis, 2023. [pdf](https://aclanthology.org/2023.findings-emnlp.28.pdf)
+- Gorinski et al, Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis, 2023. [[pdf](https://aclanthology.org/2023.findings-emnlp.28.pdf)]
 
-- Chen et al, Exploring Data Augmentation for Code Generation Tasks, 2023. [pdf](https://aclanthology.org/2023.findings-eacl.114.pdf)
+- Chen et al, Exploring Data Augmentation for Code Generation Tasks, 2023. [[pdf](https://aclanthology.org/2023.findings-eacl.114.pdf)]
 
-- Shypula et al, Learning Performance-Improving Code Edits, 2024. [pdf](https://openreview.net/pdf?id=ix7rLVHXyY)
+- Shypula et al, Learning Performance-Improving Code Edits, 2024. [[pdf](https://openreview.net/pdf?id=ix7rLVHXyY)]
 
-- Cui et al, CodeExp: Explanatory Code Document Generation, 2022. [pdf](https://aclanthology.org/2022.findings-emnlp.174.pdf)
+- Cui et al, CodeExp: Explanatory Code Document Generation, 2022. [[pdf](https://aclanthology.org/2022.findings-emnlp.174.pdf)]
 
-- Su et al, Distilled GPT for Source Code Summarization, 2023. [pdf](https://arxiv.org/pdf/2308.14731)
+- Su et al, Distilled GPT for Source Code Summarization, 2023. [[pdf](https://arxiv.org/pdf/2308.14731)]
 
 
-  - 4.2 [Data Filtering](#42-coding-filtering)
+#### 4.2 [Data Filtering](#42-coding-filtering)
 
