@@ -38,7 +38,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 4. [Papers](#4-papers)
 
-  4.1 [Data Synthesis](#41-data-synthesis)
+  - 4.1 [Data Synthesis](#41-data-synthesis)
 
-  4.2 [Data Filtering](#42-coding-filtering)
+  - 4.2 [Data Filtering](#42-coding-filtering)
 
