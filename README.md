@@ -1,5 +1,5 @@
-# Awesome Data Synthesis for Code LLMs
-This repository accompanies our survey paper 📖 "***Mastering the Craft of Data Synthesis for CodeLLMs***", which explores recent advancements in data synthesis and filtering techniques for Code LLMs. It includes a curated collection of relevant papers, datasets, benchmarks, and other resources to support and inspire future research in this rapidly evolving field. We aim to update this repository periodically to reflect the latest developments.
+# 🕊 Awesome Data Synthesis for Code LLMs
+This repository accompanies our survey paper 👉 "***Mastering the Craft of Data Synthesis for CodeLLMs***", which explores recent advancements in data synthesis and filtering techniques for Code LLMs. It includes a curated collection of relevant papers, datasets, benchmarks, and other resources to support and inspire future research in this rapidly evolving field. We aim to update this repository periodically to reflect the latest developments.
 
 <p align='center'>
 <img src='imgs/taxonomy.png' style='width: 100%; '>
@@ -33,7 +33,7 @@ This repository accompanies our survey paper 📖 "***Mastering the Craft of Dat
 | 🔥 Synthetic-Text-To-SQL |  Huggingface                       | 2024                | 105K                 | SQL                                                                             | "A Synthetic Dataset for Training Language Models to Generate SQL Queries from Natural Language Prompts" [[code](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql)], [[data](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql)]
 
 
-🎖 ### 2. [Public Benchmarks for Code LLMs](#2-benchmarking)
+### 🎖 2. [Public Benchmarks for Code LLMs](#2-benchmarking)
 
 - [NeurIPS 2021] **CodeXGLUE**: "CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation", [[paper](https://arxiv.org/abs/2102.04664)] [[repo](https://github.com/microsoft/CodeXGLUE)]
 
@@ -71,7 +71,7 @@ This repository accompanies our survey paper 📖 "***Mastering the Craft of Dat
 
 
 
-🐬 ### 3. [Recommended Open-source LLMs](#3-recommended-llms)
+### 🐬 3. [Recommended Open-source LLMs](#3-recommended-llms)
 
 - **Llama-3.1-405B**: <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20"> https://huggingface.co/meta-llama/Llama-3.1-405B
 
@@ -87,7 +87,7 @@ This repository accompanies our survey paper 📖 "***Mastering the Craft of Dat
 
 
 
-📃 ### 4. [Papers](#4-papers)
+### 📖 4. [Papers](#4-papers)
 
 #### 4.1 [Data Synthesis](#41-data-synthesis)
 
