@@ -70,6 +70,16 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 4. [Recommended LLMs](#3-recommended-llms)
 
+- **Llama-3.1-405B**: https://huggingface.co/meta-llama/Llama-3.1-405B
+
+- **Qwen2.5-72B-Instruct-GGUF**: https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF
+
+- **DeepSeek-Coder-V2-Instruct**: https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct
+
+- **Qwen2.5-Coder-32B-Instruct**: https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct
+
+- **Starcoder2-15b**: https://huggingface.co/bigcode/starcoder2-15b
+
 5. [Papers](#4-papers)
 
   - 4.1 [Data Synthesis](#41-data-synthesis)
