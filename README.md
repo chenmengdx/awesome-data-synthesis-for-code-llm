@@ -30,7 +30,7 @@ This repository accompanies our survey paper "***Mastering the Craft of Data Syn
 | PIE |  ICLR 2024                       | 2024                | 1.5K                 | Python                                                                             | "Learning Performance-Improving Code Edits" [[paper](https://openreview.net/pdf?id=ix7rLVHXyY)], [[code](https://github.com/LearningOpt/pie)], [[data](https://github.com/LearningOpt/pie?tab=readme-ov-file#dataset)]
 | CodeExp |  EMNLP 2022 Findings                       | 2022                | 13K                 | Python                                                                             | "SemCoder: Training Code Language Models with Comprehensive Semantics Reasoning" [[paper](https://aclanthology.org/2022.findings-emnlp.174.pdf)], [[code](https://github.com/subercui/CodeExp)], [[data](https://github.com/subercui/CodeExp/blob/main/dataset/CodeExp(annotated)13k.json)]
 | Jam-CGPT |  Automated Software Engineering 2024                       | 2024                | 2.15M                 | Java                                                                             | "Distilled GPT for Source Code Summarization" [[paper](https://arxiv.org/pdf/2308.14731)], [[code](https://github.com/apcl-research/Jam-CGPT)], [[data](https://huggingface.co/datasets/apcl/Jam-CGPT/tree/main)]
-
+| 🔥 Synthetic-Text-To-SQL |  Huggingface                       | 2024                | 105K                 | SQL                                                                             | "A Synthetic Dataset for Training Language Models to Generate SQL Queries from Natural Language Prompts" [[paper]()], [[code](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql)], [[data](https://huggingface.co/datasets/gretelai/synthetic_text_to_sql)]
 
 
 ### 2. [Benchmarking for Code LLMs](#2-benchmarking)
@@ -165,6 +165,8 @@ This repository accompanies our survey paper "***Mastering the Craft of Data Syn
 
 - 🔥 Hui et al, Qwen2.5-Coder Technical Report, 2024. [[pdf](https://arxiv.org/abs/2409.12186)]
 
+- 🔥 Pourreza et al, SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging, 2024. [[pdf](https://arxiv.org/abs/2408.12733v2)]
+
 #### 4.2 [Data Filtering](#42-coding-filtering)
 
 - Li et al, StarCoder: may the source be with you!, 2023. [[pdf](https://arxiv.org/abs/2305.06161)]
@@ -194,4 +196,6 @@ This repository accompanies our survey paper "***Mastering the Craft of Data Syn
 - Zhuo et al, ICE-Score: Instructing Large Language Models to Evaluate Code, 2024. [[pdf](https://aclanthology.org/2024.findings-eacl.148.pdf)]
 
 - Riddell et al, Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models, 2024. [[pdf](https://aclanthology.org/2024.acl-long.761.pdf)]
+
+- 🔥 Wang et al, How Do Your Code LLMs Perform? Empowering Code Instruction Tuning with Really Good Data, 2024. [[pdf](https://aclanthology.org/2024.emnlp-main.777.pdf)]
 
