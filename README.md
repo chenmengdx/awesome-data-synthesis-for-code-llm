@@ -7,7 +7,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 </p>
 
 ## Table of Contents
-1. [Open-source Synthetic datasets for Code LLMs](#1-datasets)
+### 1. [Open-source Synthetic datasets for Code LLMs](#1-datasets)
 
 | Dataset    | Venue                            | Date              | Size                 | Language                                                                         | Source                                                                                                                                                                                                                                                                                       |
 | ------- | -------------------------------- | ---------------------- | -------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 
 
-2. [Benchmarking for Code LLMs](#2-benchmarking)
+### 2. [Benchmarking for Code LLMs](#2-benchmarking)
 
 - [NeurIPS 2021] **CodeXGLUE**: "CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation", [[paper](https://arxiv.org/abs/2102.04664)] [[repo](https://github.com/microsoft/CodeXGLUE)]
 
@@ -72,7 +72,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 
 
-3. [Recommended Open-source LLMs](#3-recommended-llms)
+### 3. [Recommended Open-source LLMs](#3-recommended-llms)
 
 - **Llama-3.1-405B**: <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20"> https://huggingface.co/meta-llama/Llama-3.1-405B
 
@@ -88,7 +88,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 
 
-4. [Papers](#4-papers)
+### 4. [Papers](#4-papers)
 
   - 4.1 [Data Synthesis](#41-data-synthesis)
 
