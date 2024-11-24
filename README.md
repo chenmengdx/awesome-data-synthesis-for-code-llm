@@ -74,23 +74,17 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 3. [Recommended Open-source LLMs](#3-recommended-llms)
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **Llama-3.1-405B**: https://huggingface.co/meta-llama/Llama-3.1-405B
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Llama-3.1-405B**: https://huggingface.co/meta-llama/Llama-3.1-405B
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **Llama-3.2-90B**: https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Llama-3.2-90B**: https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **Qwen2.5-72B-Instruct-GGUF**: https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Qwen2.5-72B-Instruct-GGUF**: https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **DeepSeek-Coder-V2-Instruct**: https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **DeepSeek-Coder-V2-Instruct**: https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **Qwen2.5-Coder-32B-Instruct**: https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Qwen2.5-Coder-32B-Instruct**: https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct
 
-- ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo.svg)
- **Starcoder2-15b**: https://huggingface.co/bigcode/starcoder2-15b
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Starcoder2-15b**: https://huggingface.co/bigcode/starcoder2-15b
 
 
 
