@@ -164,6 +164,35 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 - Su et al, Distilled GPT for Source Code Summarization, 2023. [[pdf](https://arxiv.org/pdf/2308.14731)]
 
+- 🔥 Hui et al, Qwen2.5-Coder Technical Report, 2024. [[pdf](https://arxiv.org/abs/2409.12186)]
 
 #### 4.2 [Data Filtering](#42-coding-filtering)
+
+- Li et al, StarCoder: may the source be with you!, 2023. [[pdf](https://arxiv.org/abs/2305.06161)]
+
+- Lozhkov et al, StarCoder 2 and The Stack v2: The Next Generation, 2024. [[pdf](https://arxiv.org/abs/2402.19173)]
+
+- Guo et al, DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence, 2024. [[pdf](https://arxiv.org/abs/2401.14196)]
+
+- Zhu et al, DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence, 2024. [[pdf](https://arxiv.org/abs/2406.11931)]
+
+- Lee et al, Deduplicating Training Data Makes Language Models Better, 2022. [[pdf](https://aclanthology.org/2022.acl-long.577.pdf)]
+
+- Shen et al, SlimPajama-DC: Understanding Data Combinations for LLM Training, 2023. [[pdf](https://arxiv.org/abs/2309.10818)]
+
+- Wei et al, SelfCodeAlign: Self-Alignment for Code Generation, 2024. [[pdf](https://arxiv.org/abs/2410.24198)]
+
+- Li et al, Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning, 2024. [[pdf](https://aclanthology.org/2024.acl-long.769.pdf)]
+
+- Cao et al, Instruction Mining: Instruction Data Selection for Tuning Large Language Models, 2023. [[pdf](https://arxiv.org/abs/2307.06290)]
+
+- Zhou et al, CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.859.pdf)]
+
+- Chen et al, Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning, 2023. [[pdf](https://arxiv.org/abs/2305.09246)]
+
+- Chen et al, AlpaGasus: Training a Better Alpaca with Fewer Data, 2024. [[pdf](https://openreview.net/pdf?id=FdVXgSJhvz)]
+
+- Zhuo et al, ICE-Score: Instructing Large Language Models to Evaluate Code, 2024. [[pdf](https://aclanthology.org/2024.findings-eacl.148.pdf)]
+
+- Riddell et al, Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models, 2024. [[pdf](https://aclanthology.org/2024.acl-long.761.pdf)]
 
