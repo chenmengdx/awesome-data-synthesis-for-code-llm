@@ -74,7 +74,7 @@ Repo for data synthesis and filtering techniques of Code LLMs, covering papers, 
 
 3. [Recommended Open-source LLMs](#3-recommended-llms)
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Llama-3.1-405B**: https://huggingface.co/meta-llama/Llama-3.1-405B
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20"> **Llama-3.1-405B**: https://huggingface.co/meta-llama/Llama-3.1-405B
 
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100"> **Llama-3.2-90B**: https://huggingface.co/meta-llama/Llama-3.2-90B-Vision-Instruct
 
